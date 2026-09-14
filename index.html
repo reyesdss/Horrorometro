@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#07070a"><meta name="description" content="Horrorómetro — ranking personal de películas, series y criaturas del horror.">
+<title>Horrorómetro</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="grain"></div>
+<header class="site-header">
+  <div class="nav-wrap">
+    <a class="brand" href="#inicio" aria-label="Horrorómetro inicio"><span class="brand-mark">☾</span><span>HORROR<span>Ó</span>METRO</span></a>
+    <nav><a href="#peliculas">Películas</a><a href="#series">Series</a><a href="#criaturas">Criaturas</a><a href="#vhs">V/H/S</a></nav>
+    <button class="nav-search" id="focusSearch">⌕</button>
+  </div>
+</header>
+
+<main>
+<section class="hero" id="inicio">
+ <div class="hero-glow"></div><div class="hero-inner">
+  <p class="kicker">MI RANKING PERSONAL · TERROR · MISTERIO · LO DESCONOCIDO</p>
+  <h1>El horror,<br><em>a mi manera.</em></h1>
+  <p class="hero-copy">Una colección personal de películas, series, episodios y criaturas. Aquí las reglas son sencillas: <strong>la nota es mía.</strong></p>
+  <div class="hero-actions"><a href="#peliculas" class="btn primary">Explorar ranking</a><button class="btn ghost" id="randomBtn">✦ Dame algo inquietante</button></div>
+  <div class="scroll-cue">DESPLAZA <span>↓</span></div>
+ </div>
+</section>
+
+<section class="stats-strip" id="stats"></section>
+
+<section class="section" id="peliculas"><div class="section-head"><div><p class="kicker">01 · CINE</p><h2>Mi ranking de películas</h2><p>Las 91 películas que ya forman parte de Horrorómetro.</p></div></div>
+ <div class="controls"><label class="searchbox"><span>⌕</span><input id="search" placeholder="Buscar película..." autocomplete="off"></label><select id="movieSort"><option value="rank">Mi ranking</option><option value="rating">Mayor calificación</option><option value="year">Más recientes</option><option value="old">Más antiguas</option><option value="az">Título A-Z</option></select><button class="filter-pill active" data-filter="all">Todas</button><button class="filter-pill" data-filter="Found Footage">Found Footage</button><button class="filter-pill" data-filter="Horror Cósmico">Horror Cósmico</button></div>
+ <div class="movie-grid" id="movieGrid"></div><div class="load-more-wrap"><button class="btn ghost" id="moreMovies">Mostrar más</button></div>
+</section>
+
+<section class="quote-band"><div>“<span>El miedo no siempre se esconde en la oscuridad.</span> A veces se sienta frente a ti.”</div></section>
+
+<section class="section dark" id="series"><div class="section-head"><div><p class="kicker">02 · TELEVISIÓN</p><h2>Series y episodios</h2><p>La nota pública queda como referencia; cuando tengas tu propia valoración, Horrorómetro usará la tuya.</p></div></div>
+ <div class="series-grid" id="seriesGrid"></div>
+ <div class="episode-panel"><div class="panel-title"><span>Episodios</span><span id="episodeCount"></span></div><div class="episode-list" id="episodeList"></div></div>
+</section>
+
+<section class="section creature-section" id="criaturas"><div class="section-head"><div><p class="kicker">03 · BESTIARIO</p><h2>Mejores criaturas</h2><p>Solo seres que realmente cumplen tu criterio de monstruo. Los fantasmas sin forma monstruosa quedan fuera.</p></div></div>
+ <div class="creature-top" id="creatureTop"></div>
+ <div class="creature-tools"><input id="creatureSearch" class="plain-input" placeholder="Buscar criatura..."><select id="creatureSource"><option value="all">Todo el bestiario</option><option value="Película">Películas</option><option value="Serie">Series</option><option value="V/H/S">V/H/S</option></select></div>
+ <div class="creature-grid" id="creatureGrid"></div>
+</section>
+
+<section class="section vhs-section" id="vhs"><div class="section-head"><div><p class="kicker">04 · FOUND FOOTAGE</p><h2>El archivo V/H/S</h2><p>Tu ranking de monstruos de V/H/S, separado del resto del bestiario.</p></div></div><div class="vhs-grid" id="vhsGrid"></div></section>
+
+<section class="closing"><div class="closing-inner"><div class="sigil">✦</div><p class="kicker">HORRORÓMETRO</p><h2>Las películas las juzgo yo.</h2><p>Las fuentes externas están para identificar y contextualizar. La puntuación personal siempre pertenece a Guillermo Reyes.</p><a href="#inicio" class="btn primary">Volver arriba ↑</a></div></section>
+</main>
+<footer>Horrorómetro · Ranking personal · Los datos e imágenes externos se muestran como referencia. TMDB/Wikipedia no determinan mis calificaciones.</footer>
+
+<dialog id="dialog"><button id="closeDialog" class="close">×</button><div id="dialogBody"></div></dialog>
+<script src="app.js"></script>
+</body></html>

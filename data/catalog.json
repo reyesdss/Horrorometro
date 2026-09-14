@@ -1,0 +1,3516 @@
+{
+  "movies": [
+    {
+      "id": "m1",
+      "rank": 1,
+      "title": "The Fourth Kind (El Cuarto Contacto) (2009)",
+      "rating": 10.0,
+      "year": 2009,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m2",
+      "rank": 2,
+      "title": "The Ritual (2017)",
+      "rating": 10.0,
+      "year": 2017,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m3",
+      "rank": 3,
+      "title": "Cuando Acecha la Maldad (2023)",
+      "rating": 10.0,
+      "year": 2023,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m4",
+      "rank": 4,
+      "title": "Hereditary (2018)",
+      "rating": 10.0,
+      "year": 2018,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m5",
+      "rank": 5,
+      "title": "Actividad Paranormal 3 (2011)",
+      "rating": 10.0,
+      "year": 2011,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m6",
+      "rank": 6,
+      "title": "Dark Skies (Los Elegidos) (2013)",
+      "rating": 10.0,
+      "year": 2013,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m7",
+      "rank": 7,
+      "title": "Aterrados (2017)",
+      "rating": 10.0,
+      "year": 2017,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m8",
+      "rank": 8,
+      "title": "The Witch (2015)",
+      "rating": 10.0,
+      "year": 2015,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m9",
+      "rank": 9,
+      "title": "Color Out of Space (2019)",
+      "rating": 10.0,
+      "year": 2019,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m10",
+      "rank": 10,
+      "title": "The Thing (2011)",
+      "rating": 10.0,
+      "year": 2011,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m11",
+      "rank": 11,
+      "title": "The Mist (2007)",
+      "rating": 10.0,
+      "year": 2007,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m12",
+      "rank": 12,
+      "title": "The Void (2016)",
+      "rating": 10.0,
+      "year": 2016,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m13",
+      "rank": 13,
+      "title": "Coherence (2013)",
+      "rating": 9.5,
+      "year": 2013,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m14",
+      "rank": 14,
+      "title": "Ghostland (2018)",
+      "rating": 9.5,
+      "year": 2018,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m15",
+      "rank": 15,
+      "title": "Nope (2022)",
+      "rating": 9.5,
+      "year": 2022,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m16",
+      "rank": 16,
+      "title": "Pandorum (2009)",
+      "rating": 9.5,
+      "year": 2009,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m17",
+      "rank": 17,
+      "title": "Annihilation (2018)",
+      "rating": 9.0,
+      "year": 2018,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m18",
+      "rank": 18,
+      "title": "Paranormal Activity: The Marked Ones (2014)",
+      "rating": 9.0,
+      "year": 2014,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m19",
+      "rank": 19,
+      "title": "V/H/S 2 (2013)",
+      "rating": 9.0,
+      "year": 2013,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m20",
+      "rank": 20,
+      "title": "El Gabinete: La visita (2022)",
+      "rating": 9.0,
+      "year": 2022,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m21",
+      "rank": 21,
+      "title": "El Páramo (2021)",
+      "rating": 9.0,
+      "year": 2021,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m22",
+      "rank": 22,
+      "title": "V/H/S (2012)",
+      "rating": 9.0,
+      "year": 2012,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m23",
+      "rank": 23,
+      "title": "Observados (2023)",
+      "rating": 9.0,
+      "year": 2023,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m24",
+      "rank": 24,
+      "title": "Paranormal Activity: The Ghost Dimension (2015)",
+      "rating": 9.0,
+      "year": 2015,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m25",
+      "rank": 25,
+      "title": "V/H/S Beyond (2024)",
+      "rating": 9.0,
+      "year": 2024,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m26",
+      "rank": 26,
+      "title": "Barbarian (2022)",
+      "rating": 8.5,
+      "year": 2022,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m27",
+      "rank": 27,
+      "title": "Huye (2017)",
+      "rating": 8.5,
+      "year": 2017,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m28",
+      "rank": 28,
+      "title": "Señales (2002)",
+      "rating": 8.5,
+      "year": 2002,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m29",
+      "rank": 29,
+      "title": "Grave Encounters (2011)",
+      "rating": 8.5,
+      "year": 2011,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m30",
+      "rank": 30,
+      "title": "No One Will Save You (2023)",
+      "rating": 8.5,
+      "year": 2023,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m31",
+      "rank": 31,
+      "title": "La sustancia (2024)",
+      "rating": 8.5,
+      "year": 2024,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m32",
+      "rank": 32,
+      "title": "Muerte en Silencio (Dead Silence) (2007)",
+      "rating": 8.5,
+      "year": 2007,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m33",
+      "rank": 33,
+      "title": "Actividad Paranormal (2007)",
+      "rating": 8.5,
+      "year": 2007,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m34",
+      "rank": 34,
+      "title": "Actividad Paranormal 2 (2010)",
+      "rating": 8.5,
+      "year": 2010,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m35",
+      "rank": 35,
+      "title": "Actividad Paranormal 4 (2012)",
+      "rating": 8.5,
+      "year": 2012,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m36",
+      "rank": 36,
+      "title": "Alien Romulus (2024)",
+      "rating": 8.5,
+      "year": 2024,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m37",
+      "rank": 37,
+      "title": "El Descenso (2005)",
+      "rating": 8.5,
+      "year": 2005,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m38",
+      "rank": 38,
+      "title": "Secretos Ocultos (2017)",
+      "rating": 8.5,
+      "year": 2017,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m39",
+      "rank": 39,
+      "title": "El Gabinete:  Lot 36 (2022)",
+      "rating": 8.5,
+      "year": 2022,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m40",
+      "rank": 40,
+      "title": "Despues del Apocalipcis (2024)",
+      "rating": 8.5,
+      "year": 2024,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m41",
+      "rank": 41,
+      "title": "V/H/S 94 (2021)",
+      "rating": 8.5,
+      "year": 2021,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m42",
+      "rank": 42,
+      "title": "Siniestro",
+      "rating": 8.5,
+      "year": null,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m43",
+      "rank": 43,
+      "title": "V/H/S 85 (2023)",
+      "rating": 8.0,
+      "year": 2023,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m44",
+      "rank": 44,
+      "title": "En Otras Dimenciones (2023)",
+      "rating": 8.0,
+      "year": 2023,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m45",
+      "rank": 45,
+      "title": "V/H/S 99 (2022)",
+      "rating": 8.0,
+      "year": 2022,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m46",
+      "rank": 46,
+      "title": "Demoniaca (2020)",
+      "rating": 8.0,
+      "year": 2020,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m47",
+      "rank": 47,
+      "title": "Area 51 (2015)",
+      "rating": 8.0,
+      "year": 2015,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m48",
+      "rank": 48,
+      "title": "The Others (2001)",
+      "rating": 8.0,
+      "year": 2001,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m49",
+      "rank": 49,
+      "title": "The Medium (2021)",
+      "rating": 8.0,
+      "year": 2021,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m50",
+      "rank": 50,
+      "title": "The Endless (2017)",
+      "rating": 8.0,
+      "year": 2017,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m51",
+      "rank": 51,
+      "title": "Hell House LLC (2015)",
+      "rating": 8.0,
+      "year": 2015,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m52",
+      "rank": 52,
+      "title": "Detras de las paredes (2011)",
+      "rating": 8.0,
+      "year": 2011,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m53",
+      "rank": 53,
+      "title": "Shutter (2021)",
+      "rating": 8.0,
+      "year": 2021,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m54",
+      "rank": 54,
+      "title": "El Wendigo (2019)",
+      "rating": 8.0,
+      "year": 2019,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m55",
+      "rank": 55,
+      "title": "Nadie Sale Vivo (2021)",
+      "rating": 8.0,
+      "year": 2021,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m56",
+      "rank": 56,
+      "title": "REC (2007)",
+      "rating": 8.0,
+      "year": 2007,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m57",
+      "rank": 57,
+      "title": "La Cabaña (The Cabin in the Woods) (2012)",
+      "rating": 8.0,
+      "year": 2012,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m58",
+      "rank": 58,
+      "title": "Así en la Tierra Como en el Infierno (2014)",
+      "rating": 8.0,
+      "year": 2014,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m59",
+      "rank": 59,
+      "title": "La Cura Siniestra (2016)",
+      "rating": 8.0,
+      "year": 2016,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m60",
+      "rank": 60,
+      "title": "La Maldicion de Charlie (2015)",
+      "rating": 8.0,
+      "year": 2015,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m61",
+      "rank": 61,
+      "title": "The Empty Man (2020)",
+      "rating": 8.0,
+      "year": 2020,
+      "tags": [
+        "Horror Cósmico"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m62",
+      "rank": 62,
+      "title": "The Visit (2015)",
+      "rating": 8.0,
+      "year": 2015,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m63",
+      "rank": 63,
+      "title": "Skinwalker: El Rancho Maldito (2020)",
+      "rating": 8.0,
+      "year": 2020,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m64",
+      "rank": 64,
+      "title": "The Wretched (2019)",
+      "rating": 7.5,
+      "year": 2019,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m65",
+      "rank": 65,
+      "title": "Desaparecer Por Completo (2024)",
+      "rating": 7.5,
+      "year": 2024,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m66",
+      "rank": 66,
+      "title": "El Triangulo (2009)",
+      "rating": 7.5,
+      "year": 2009,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m67",
+      "rank": 67,
+      "title": "Smile (2022)",
+      "rating": 7.5,
+      "year": 2022,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m68",
+      "rank": 68,
+      "title": "Belcebud (2017)",
+      "rating": 7.5,
+      "year": 2017,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m69",
+      "rank": 69,
+      "title": "Llaman a la Puerta (2023)",
+      "rating": 7.5,
+      "year": 2023,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m70",
+      "rank": 70,
+      "title": "Phoenix Forgotten (2017)",
+      "rating": 7.5,
+      "year": 2017,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m71",
+      "rank": 71,
+      "title": "Libralos del Mal (2025)",
+      "rating": 7.0,
+      "year": 2025,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m72",
+      "rank": 72,
+      "title": "Maleficio (2022)",
+      "rating": 7.0,
+      "year": 2022,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m73",
+      "rank": 73,
+      "title": "Alien Abdution (1998)",
+      "rating": 7.0,
+      "year": 1998,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m74",
+      "rank": 74,
+      "title": "La Morgue (2016)",
+      "rating": 7.0,
+      "year": 2016,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m75",
+      "rank": 75,
+      "title": "The Conjuring (2013)",
+      "rating": 7.0,
+      "year": 2013,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m76",
+      "rank": 76,
+      "title": "The Taking of Deborah Logan (2014)",
+      "rating": 7.0,
+      "year": 2014,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m77",
+      "rank": 77,
+      "title": "Devil's Gate (2017)",
+      "rating": 6.5,
+      "year": 2017,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m78",
+      "rank": 78,
+      "title": "Gonjiam: Haunted Asylum (2018)",
+      "rating": 6.5,
+      "year": 2018,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m79",
+      "rank": 79,
+      "title": "V/H/S Halloween (2025)",
+      "rating": 6.5,
+      "year": 2025,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m80",
+      "rank": 80,
+      "title": "The Tunel (2011)",
+      "rating": 6.0,
+      "year": 2011,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m81",
+      "rank": 81,
+      "title": "Smile 2 (2024)",
+      "rating": 6.0,
+      "year": 2024,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m82",
+      "rank": 82,
+      "title": "The Blair Witch Project (1999)",
+      "rating": 4.0,
+      "year": 1999,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m83",
+      "rank": 83,
+      "title": "Noroi (2005)",
+      "rating": 4.0,
+      "year": 2005,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m84",
+      "rank": 84,
+      "title": "Lake Mungo (2008)",
+      "rating": 3.0,
+      "year": 2008,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m85",
+      "rank": 85,
+      "title": "V/H/S Viral (2014)",
+      "rating": 3.0,
+      "year": 2014,
+      "tags": [
+        "Found Footage"
+      ],
+      "kind": "movie"
+    },
+    {
+      "id": "m86",
+      "rank": 86,
+      "title": "Last Shift (2015)",
+      "rating": 3.0,
+      "year": 2015,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m87",
+      "rank": 87,
+      "title": "Good Boy (2025)",
+      "rating": 7.5,
+      "year": 2025,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m88",
+      "rank": 88,
+      "title": "Obsession (2025)",
+      "rating": 9.0,
+      "year": 2025,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m89",
+      "rank": 89,
+      "title": "La Última Casa (2026)",
+      "rating": 7.0,
+      "year": 2026,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m90",
+      "rank": 90,
+      "title": "BackRooms (2026)",
+      "rating": 8.0,
+      "year": 2026,
+      "tags": [],
+      "kind": "movie"
+    },
+    {
+      "id": "m91",
+      "rank": 91,
+      "title": "1408 (2007)",
+      "rating": 7.5,
+      "year": 2007,
+      "tags": [],
+      "kind": "movie"
+    }
+  ],
+  "series": [
+    {
+      "id": "from",
+      "title": "From",
+      "format": "Serie",
+      "start": 2022,
+      "seasons": 4,
+      "episodes": 40,
+      "imdb": 7.8,
+      "kind": "series"
+    },
+    {
+      "id": "it-1990",
+      "title": "IT (1990)",
+      "format": "Miniserie",
+      "start": 1990,
+      "seasons": 1,
+      "episodes": 2,
+      "imdb": 6.8,
+      "kind": "series"
+    },
+    {
+      "id": "el-gabinete-de-curiosidades-de-guillermo-del-toro",
+      "title": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "format": "Antología",
+      "start": 2022,
+      "seasons": 1,
+      "episodes": 8,
+      "imdb": 7,
+      "kind": "series"
+    },
+    {
+      "id": "the-boroughs",
+      "title": "The Boroughs",
+      "format": "Serie",
+      "start": 2026,
+      "seasons": 1,
+      "episodes": 8,
+      "imdb": 7.2,
+      "kind": "series"
+    },
+    {
+      "id": "30-monedas",
+      "title": "30 Monedas",
+      "format": "Serie",
+      "start": 2020,
+      "seasons": 2,
+      "episodes": 16,
+      "imdb": 7,
+      "kind": "series"
+    },
+    {
+      "id": "teacup",
+      "title": "Teacup",
+      "format": "Serie limitada",
+      "start": 2024,
+      "seasons": 1,
+      "episodes": 8,
+      "imdb": 6.3,
+      "kind": "series"
+    }
+  ],
+  "episodes": [
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 1,
+      "title": "Long Day's Journey Into Night",
+      "imdb": 8.1
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 2,
+      "title": "A Forest of Little Children",
+      "imdb": 7.6
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 3,
+      "title": "Choosing Day",
+      "imdb": 7.5
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 4,
+      "title": "A Rock and a Faraway Tree",
+      "imdb": 7.3
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 5,
+      "title": "Silhouette",
+      "imdb": 7.2
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 6,
+      "title": "Book 74",
+      "imdb": 7.3
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 7,
+      "title": "All Good Things...",
+      "imdb": 8.3
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 8,
+      "title": "Broken Windows, Open Doors",
+      "imdb": 7.7
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 9,
+      "title": "Into the Woods",
+      "imdb": 7.6
+    },
+    {
+      "series": "From",
+      "season": 1,
+      "episode": 10,
+      "title": "Oh, the Places We'll Go",
+      "imdb": 7.8
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 1,
+      "title": "Strangers in a Strange Land",
+      "imdb": 7.9
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 2,
+      "title": "The Kindness of Strangers",
+      "imdb": 7.9
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 3,
+      "title": "Tether",
+      "imdb": 7.2
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 4,
+      "title": "This Way Gone",
+      "imdb": 6.8
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 5,
+      "title": "Lullaby",
+      "imdb": 6.4
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 6,
+      "title": "Pas de Deux",
+      "imdb": 7.8
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 7,
+      "title": "Belly of the Beast",
+      "imdb": 7.1
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 8,
+      "title": "Forest for the Trees",
+      "imdb": 7.3
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 9,
+      "title": "Ball of Magic Fire",
+      "imdb": 7.6
+    },
+    {
+      "series": "From",
+      "season": 2,
+      "episode": 10,
+      "title": "Once Upon a Time...",
+      "imdb": 8
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 1,
+      "title": "Shatter",
+      "imdb": 8.3
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 2,
+      "title": "When We Go",
+      "imdb": 7.9
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 3,
+      "title": "Mouse Trap",
+      "imdb": 7.9
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 4,
+      "title": "There and Back Again",
+      "imdb": 8.3
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 5,
+      "title": "The Light of Day",
+      "imdb": 7.3
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 6,
+      "title": "Scar Tissue",
+      "imdb": 6.7
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 7,
+      "title": "These Fragile Lives",
+      "imdb": 6
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 8,
+      "title": "Thresholds",
+      "imdb": 6.9
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 9,
+      "title": "Revelations: Part One",
+      "imdb": 6.8
+    },
+    {
+      "series": "From",
+      "season": 3,
+      "episode": 10,
+      "title": "Revelations: Part Two",
+      "imdb": 8.2
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 1,
+      "title": "The Arrival",
+      "imdb": 8.1
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 2,
+      "title": "Fray",
+      "imdb": 7.1
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 3,
+      "title": "Merrily We Go",
+      "imdb": 6.3
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 4,
+      "title": "Of Myths and Monsters",
+      "imdb": 6.6
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 5,
+      "title": "What a Long Strange Trip It's Been",
+      "imdb": 8.3
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 6,
+      "title": "The Heart Is a Lonely Hunter",
+      "imdb": 6.2
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 7,
+      "title": "Best Laid Plans",
+      "imdb": 7.9
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 8,
+      "title": "Heavy Is the Head",
+      "imdb": 6.5
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 9,
+      "title": "The Calm Before",
+      "imdb": 7.8
+    },
+    {
+      "series": "From",
+      "season": 4,
+      "episode": 10,
+      "title": "If a Tree Falls in the Forest...",
+      "imdb": 7
+    },
+    {
+      "series": "IT (1990)",
+      "season": 1,
+      "episode": 1,
+      "title": "Part 1",
+      "imdb": 7.4
+    },
+    {
+      "series": "IT (1990)",
+      "season": 1,
+      "episode": 2,
+      "title": "Part 2",
+      "imdb": 6.4
+    },
+    {
+      "series": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "season": 1,
+      "episode": 1,
+      "title": "Lot 36",
+      "imdb": 6.6
+    },
+    {
+      "series": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "season": 1,
+      "episode": 2,
+      "title": "Graveyard Rats",
+      "imdb": 6.7
+    },
+    {
+      "series": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "season": 1,
+      "episode": 3,
+      "title": "The Autopsy",
+      "imdb": 7.9
+    },
+    {
+      "series": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "season": 1,
+      "episode": 4,
+      "title": "The Outside",
+      "imdb": 6.2
+    },
+    {
+      "series": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "season": 1,
+      "episode": 5,
+      "title": "Pickman's Model",
+      "imdb": 6.4
+    },
+    {
+      "series": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "season": 1,
+      "episode": 6,
+      "title": "Dreams in the Witch House",
+      "imdb": 5.6
+    },
+    {
+      "series": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "season": 1,
+      "episode": 7,
+      "title": "The Viewing",
+      "imdb": 6.1
+    },
+    {
+      "series": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "season": 1,
+      "episode": 8,
+      "title": "The Murmuring",
+      "imdb": 6.6
+    },
+    {
+      "series": "The Boroughs",
+      "season": 1,
+      "episode": 1,
+      "title": "Welcome to The Boroughs",
+      "imdb": 7.4
+    },
+    {
+      "series": "The Boroughs",
+      "season": 1,
+      "episode": 2,
+      "title": "The Mourning After",
+      "imdb": 7.4
+    },
+    {
+      "series": "The Boroughs",
+      "season": 1,
+      "episode": 3,
+      "title": "A Pyramid",
+      "imdb": 7.6
+    },
+    {
+      "series": "The Boroughs",
+      "season": 1,
+      "episode": 4,
+      "title": "Forbidden Fruit",
+      "imdb": 7.7
+    },
+    {
+      "series": "The Boroughs",
+      "season": 1,
+      "episode": 5,
+      "title": "Another Beautiful Day",
+      "imdb": 7.6
+    },
+    {
+      "series": "The Boroughs",
+      "season": 1,
+      "episode": 6,
+      "title": "The Grey Rebellion",
+      "imdb": 7.4
+    },
+    {
+      "series": "The Boroughs",
+      "season": 1,
+      "episode": 7,
+      "title": "Time To Go",
+      "imdb": 7.6
+    },
+    {
+      "series": "The Boroughs",
+      "season": 1,
+      "episode": 8,
+      "title": "Triple Audible",
+      "imdb": 7.4
+    },
+    {
+      "series": "30 Monedas",
+      "season": 1,
+      "episode": 1,
+      "title": "Telarañas",
+      "imdb": 7.8
+    },
+    {
+      "series": "30 Monedas",
+      "season": 1,
+      "episode": 2,
+      "title": "Ouija",
+      "imdb": 7.5
+    },
+    {
+      "series": "30 Monedas",
+      "season": 1,
+      "episode": 3,
+      "title": "El espejo",
+      "imdb": 8
+    },
+    {
+      "series": "30 Monedas",
+      "season": 1,
+      "episode": 4,
+      "title": "Recuerdos",
+      "imdb": 7.9
+    },
+    {
+      "series": "30 Monedas",
+      "season": 1,
+      "episode": 5,
+      "title": "El doble",
+      "imdb": 7.5
+    },
+    {
+      "series": "30 Monedas",
+      "season": 1,
+      "episode": 6,
+      "title": "Guerra Santa",
+      "imdb": 7.5
+    },
+    {
+      "series": "30 Monedas",
+      "season": 1,
+      "episode": 7,
+      "title": "La caja de cristal",
+      "imdb": 7.7
+    },
+    {
+      "series": "30 Monedas",
+      "season": 1,
+      "episode": 8,
+      "title": "Sacrificio",
+      "imdb": 6.6
+    },
+    {
+      "series": "30 Monedas",
+      "season": 2,
+      "episode": 1,
+      "title": "El pueblo fantasma",
+      "imdb": 7.3
+    },
+    {
+      "series": "30 Monedas",
+      "season": 2,
+      "episode": 2,
+      "title": "Las tierras del sueño",
+      "imdb": 7.3
+    },
+    {
+      "series": "30 Monedas",
+      "season": 2,
+      "episode": 3,
+      "title": "Criaturas infernales",
+      "imdb": 7.2
+    },
+    {
+      "series": "30 Monedas",
+      "season": 2,
+      "episode": 4,
+      "title": "El libro negro del árabe loco",
+      "imdb": 7.2
+    },
+    {
+      "series": "30 Monedas",
+      "season": 2,
+      "episode": 5,
+      "title": "El símbolo arcano",
+      "imdb": 6.7
+    },
+    {
+      "series": "30 Monedas",
+      "season": 2,
+      "episode": 6,
+      "title": "Reiniciar el mundo",
+      "imdb": 6.9
+    },
+    {
+      "series": "30 Monedas",
+      "season": 2,
+      "episode": 7,
+      "title": "Los Dos Núcleos",
+      "imdb": 6.7
+    },
+    {
+      "series": "30 Monedas",
+      "season": 2,
+      "episode": 8,
+      "title": "El ojo de Dios",
+      "imdb": 7
+    },
+    {
+      "series": "Teacup",
+      "season": 1,
+      "episode": 1,
+      "title": "Think About the Bubbles",
+      "imdb": 6.6
+    },
+    {
+      "series": "Teacup",
+      "season": 1,
+      "episode": 2,
+      "title": "My Little Lighthouse",
+      "imdb": 7.3
+    },
+    {
+      "series": "Teacup",
+      "season": 1,
+      "episode": 3,
+      "title": "Quiet for No Reason",
+      "imdb": 6.7
+    },
+    {
+      "series": "Teacup",
+      "season": 1,
+      "episode": 4,
+      "title": "In the Heart of the Country",
+      "imdb": 6.8
+    },
+    {
+      "series": "Teacup",
+      "season": 1,
+      "episode": 5,
+      "title": "I'm a Witness to the Sickness",
+      "imdb": 6.9
+    },
+    {
+      "series": "Teacup",
+      "season": 1,
+      "episode": 6,
+      "title": "You Don't Know What It Means to Win",
+      "imdb": 6.6
+    },
+    {
+      "series": "Teacup",
+      "season": 1,
+      "episode": 7,
+      "title": "This Is Nowhere Part 1",
+      "imdb": 6.6
+    },
+    {
+      "series": "Teacup",
+      "season": 1,
+      "episode": 8,
+      "title": "This Is Nowhere Part 2",
+      "imdb": 6.8
+    }
+  ],
+  "creatures": [
+    {
+      "sourceType": "Película",
+      "source": "The Fourth Kind (El Cuarto Contacto)",
+      "name": "Seres tipo búho / Grises",
+      "type": "Extraterrestres",
+      "desc": "Entidades asociadas a las abducciones",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/The_Fourth_Kind"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Ritual",
+      "name": "Moder",
+      "type": "Jötunn / deidad nórdica",
+      "desc": "Criatura principal del bosque",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Ritual_(2017_film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Cuando Acecha la Maldad",
+      "name": "Embichados",
+      "type": "Posesión / entidad",
+      "desc": "Seres poseídos por una presencia sobrenatural",
+      "rating": null,
+      "link": "https://www.timeoutmexico.mx/ciudad-de-mexico/cine/cuando-acecha-la-maldad"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Hereditary",
+      "name": "Paimon",
+      "type": "Entidad demoníaca",
+      "desc": "Entidad central del culto",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Hereditary_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Actividad Paranormal 3",
+      "name": "Toby",
+      "type": "Entidad demoníaca",
+      "desc": "Entidad invisible asociada a la familia",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Paranormal_Activity_3"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Dark Skies (Los Elegidos)",
+      "name": "Grises",
+      "type": "Extraterrestres",
+      "desc": "Entidades de las abducciones",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Dark_Skies_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Aterrados",
+      "name": "Entidad de la casa",
+      "type": "Entidad sobrenatural",
+      "desc": "Presencia responsable de los fenómenos",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Terrified_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Color Out of Space",
+      "name": "La entidad / Color",
+      "type": "Entidad extraterrestre",
+      "desc": "Presencia extraterrestre que altera organismos",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Color_Out_of_Space_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Color Out of Space",
+      "name": "Ciervo mutado",
+      "type": "Criatura mutada",
+      "desc": "Animal alterado por el Color",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Color_Out_of_Space_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Thing (2011)",
+      "name": "The Thing",
+      "type": "Organismo extraterrestre",
+      "desc": "Entidad que asimila e imita organismos",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Thing_(2011_film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Thing (2011)",
+      "name": "Thing-Henrik",
+      "type": "Forma asimilada",
+      "desc": "Manifestación del organismo alienígena",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Thing_(2011_film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Thing (2011)",
+      "name": "Thing-Juliette",
+      "type": "Forma asimilada",
+      "desc": "Manifestación del organismo alienígena",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Thing_(2011_film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Mist",
+      "name": "Behemoth",
+      "type": "Criatura gigantesca",
+      "desc": "Gigantesca criatura de la niebla",
+      "rating": null,
+      "link": "https://stephenking.com/works/movie/mist.html"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Mist",
+      "name": "Criaturas arácnidas",
+      "type": "Arácnidos",
+      "desc": "Arañas que atacan y ponen huevos",
+      "rating": null,
+      "link": "https://stephenking.com/works/movie/mist.html"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Mist",
+      "name": "Tentáculos",
+      "type": "Criatura tentacular",
+      "desc": "Tentáculos visibles en la niebla",
+      "rating": null,
+      "link": "https://stephenking.com/works/movie/mist.html"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Mist",
+      "name": "Criaturas voladoras",
+      "type": "Criaturas voladoras",
+      "desc": "Seres alados de la niebla",
+      "rating": null,
+      "link": "https://stephenking.com/works/movie/mist.html"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Void",
+      "name": "Criaturas tentaculares",
+      "type": "Abominaciones",
+      "desc": "Seres creados/atraídos por el Vacío",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/The_Void_(película)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Void",
+      "name": "Mutantes",
+      "type": "Mutaciones / abominaciones",
+      "desc": "Personas transformadas por la entidad",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/The_Void_(película)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Annihilation",
+      "name": "Oso mutado",
+      "type": "Criatura mutada",
+      "desc": "Oso alterado por el Shimmer",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Annihilation_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Annihilation",
+      "name": "Cocodrilo mutado",
+      "type": "Criatura mutada",
+      "desc": "Depredador alterado por el Shimmer",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Annihilation_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Annihilation",
+      "name": "Ciervo mutado",
+      "type": "Criatura mutada",
+      "desc": "Fauna alterada por el Shimmer",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Annihilation_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Annihilation",
+      "name": "The Humanoid",
+      "type": "Entidad / doppelgänger",
+      "desc": "Forma humana creada por el Shimmer",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Annihilation_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Paranormal Activity: The Marked Ones",
+      "name": "Toby",
+      "type": "Entidad demoníaca",
+      "desc": "Entidad vinculada a la maldición",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Paranormal_Activity:_The_Marked_Ones"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Observados",
+      "name": "The Watchers",
+      "type": "Criaturas humanoides",
+      "desc": "Criaturas que observan a los humanos",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Watchers_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "No One Will Save You",
+      "name": "Extraterrestres",
+      "type": "Extraterrestres",
+      "desc": "Seres alienígenas que invaden la casa",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/No_One_Will_Save_You"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La sustancia",
+      "name": "Monstro Elisasue",
+      "type": "Abominación",
+      "desc": "Ser final resultado de la transformación",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Substance"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Muerte en Silencio (Dead Silence)",
+      "name": "Mary Shaw",
+      "type": "Fantasma",
+      "desc": "Espíritu vengativo ligado a los títeres",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Dead_Silence"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Muerte en Silencio (Dead Silence)",
+      "name": "Billy",
+      "type": "Títere / entidad",
+      "desc": "Títere asociado a Mary Shaw",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Dead_Silence"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Alien Romulus",
+      "name": "Xenomorph",
+      "type": "Extraterrestre",
+      "desc": "Depredador alienígena principal",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Alien:_Romulus"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Alien Romulus",
+      "name": "Facehugger",
+      "type": "Parásito",
+      "desc": "Etapa que implanta el organismo",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Alien:_Romulus"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Alien Romulus",
+      "name": "Offspring",
+      "type": "Híbrido humano/xenomorfo",
+      "desc": "Criatura híbrida final",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Alien:_Romulus"
+    },
+    {
+      "sourceType": "Película",
+      "source": "El Descenso",
+      "name": "Crawlers",
+      "type": "Criaturas subterráneas",
+      "desc": "Humanoides adaptados a vivir en cuevas",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Descent"
+    },
+    {
+      "sourceType": "Película",
+      "source": "El Páramo",
+      "name": "La Bestia",
+      "type": "Entidad / criatura",
+      "desc": "Ser sobrenatural que acecha en el exterior",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Beast_(2021_Spanish_film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "V/H/S 2",
+      "name": "Demonio / entidad de Safe Haven",
+      "type": "Culto / entidad sobrenatural",
+      "desc": "Ser asociado al segmento Safe Haven",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/V/H/S/2"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Ancient Ones",
+      "type": "Entidades cósmicas",
+      "desc": "Seres que exigen el ritual",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Merman",
+      "type": "Criatura acuática",
+      "desc": "Uno de los monstruos de la instalación",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Angry Molesting Tree",
+      "type": "Árbol monstruoso",
+      "desc": "Criatura sobrenatural",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Dragonbat",
+      "type": "Criatura voladora",
+      "desc": "Monstruo de la instalación",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Sugarplum Fairy",
+      "type": "Criatura sobrenatural",
+      "desc": "Monstruo de la instalación",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Unicorn",
+      "type": "Criatura fantástica",
+      "desc": "Monstruo de la instalación",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Werewolf",
+      "type": "Licántropo",
+      "desc": "Monstruo de la instalación",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Deadites",
+      "type": "No muertos",
+      "desc": "Monstruos de la instalación",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "The Bride",
+      "type": "Fantasma / zombi",
+      "desc": "Monstruo de la instalación",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cabaña (The Cabin in the Woods)",
+      "name": "Alien Beast",
+      "type": "Extraterrestre",
+      "desc": "Monstruo de la instalación",
+      "rating": null,
+      "link": "https://www.imdb.com/title/tt1259521/faq/"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Empty Man",
+      "name": "The Empty Man",
+      "type": "Entidad sobrenatural",
+      "desc": "Entidad central de la película",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Empty_Man_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Wretched",
+      "name": "The Hag",
+      "type": "Bruja / criatura",
+      "desc": "Entidad que se apodera de la mujer de la casa",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Wretched_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Smile",
+      "name": "La Entidad de Smile",
+      "type": "Entidad sobrenatural",
+      "desc": "Ser que adopta formas humanas sonrientes",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/Smile_(película_de_2022)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Smile 2",
+      "name": "La Entidad de Smile",
+      "type": "Entidad sobrenatural",
+      "desc": "Misma entidad central de la saga",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/Smile_2"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Belcebú / Belzebud",
+      "name": "Belcebú",
+      "type": "Demonio",
+      "desc": "Entidad demoníaca central",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Belzebuth_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Others",
+      "name": "Los fantasmas de la casa",
+      "type": "Fantasmas",
+      "desc": "Entidades sobrenaturales de la casa",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Others_(2001_film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Medium",
+      "name": "Bayan",
+      "type": "Deidad / espíritu",
+      "desc": "Entidad sobrenatural central",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Medium_(2021_film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Hell House LLC",
+      "name": "Abaddon Entity",
+      "type": "Entidad sobrenatural",
+      "desc": "Presencia asociada al hotel",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Hell_House_LLC"
+    },
+    {
+      "sourceType": "Película",
+      "source": "El Wendigo",
+      "name": "Wendigo",
+      "type": "Criatura mitológica",
+      "desc": "Entidad/monstruo del folclore",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Wendigo"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Nadie Sale Vivo",
+      "name": "Entidad del baúl",
+      "type": "Entidad sobrenatural",
+      "desc": "Ser ligado al artefacto/baúl",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/No_One_Gets_Out_Alive_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "REC",
+      "name": "Infectados",
+      "type": "Infectados sobrenaturales",
+      "desc": "Personas transformadas por la infección",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/REC_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "REC",
+      "name": "Tristana Medeiros",
+      "type": "Entidad / infectada",
+      "desc": "Origen sobrenatural de la infección",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/REC_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Así en la Tierra Como en el Infierno",
+      "name": "Demonios / habitantes infernales",
+      "type": "Entidades infernales",
+      "desc": "Seres del descenso final",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/As_Above,_So_Below_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Cura Siniesta",
+      "name": "Criatura acuática",
+      "type": "Criatura mutada",
+      "desc": "Entidad del tanque/instalación",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/A_Cure_for_Wellness"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Maldición de Charlie",
+      "name": "Demonio",
+      "type": "Entidad demoníaca",
+      "desc": "Presencia sobrenatural de la maldición",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Incarnate_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Empty Man",
+      "name": "The Empty Man",
+      "type": "Entidad sobrenatural",
+      "desc": "Entidad central de la película",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Empty_Man_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Skinwalker: El Rancho Maldito",
+      "name": "Skinwalker",
+      "type": "Entidad / criatura",
+      "desc": "Ser del folclore nativo",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Skinwalker"
+    },
+    {
+      "sourceType": "Película",
+      "source": "La Morgue",
+      "name": "Jane Doe",
+      "type": "Bruja / entidad",
+      "desc": "Cadáver con poder sobrenatural",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/The_Autopsy_of_Jane_Doe"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Conjuring",
+      "name": "Bathsheba",
+      "type": "Espíritu / bruja",
+      "desc": "Entidad maligna que habita la casa",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Conjuring"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Conjuring",
+      "name": "Valak / Demon Nun",
+      "type": "Demonio",
+      "desc": "Entidad demoníaca",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Conjuring_2"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Taking of Deborah Logan",
+      "name": "Aham",
+      "type": "Demonio / entidad",
+      "desc": "Entidad que posee a Deborah",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Taking_of_Deborah_Logan"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Devil's Gate",
+      "name": "Entidades extraterrestres",
+      "type": "Seres / híbridos",
+      "desc": "Entidades detrás del misterio",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Devil%27s_Gate_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Gonjiam: Haunted Asylum",
+      "name": "Head Nurse",
+      "type": "Fantasma",
+      "desc": "Entidad del asilo",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Gonjiam:_Haunted_Asylum"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Gonjiam: Haunted Asylum",
+      "name": "Espíritus del asilo",
+      "type": "Fantasmas",
+      "desc": "Manifestaciones sobrenaturales",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Gonjiam:_Haunted_Asylum"
+    },
+    {
+      "sourceType": "Película",
+      "source": "The Blair Witch Project",
+      "name": "Blair Witch",
+      "type": "Entidad sobrenatural",
+      "desc": "Presencia de las leyendas del bosque",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Blair_Witch_Project"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Noroi",
+      "name": "Kagutaba",
+      "type": "Deidad / entidad sobrenatural",
+      "desc": "Entidad central del documental",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Noroi:_The_Curse"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Lake Mungo",
+      "name": "Alice Palmer",
+      "type": "Fantasma",
+      "desc": "Aparición sobrenatural",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Lake_Mungo_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "Last Shift",
+      "name": "Paymon / entidad demoníaca",
+      "type": "Demonio",
+      "desc": "Entidad sobrenatural asociada al culto",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/Last_Shift"
+    },
+    {
+      "sourceType": "Película",
+      "source": "1408",
+      "name": "Entidades de la habitación 1408",
+      "type": "Fantasmas / manifestaciones",
+      "desc": "Presencias sobrenaturales de la habitación",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/1408_(film)"
+    },
+    {
+      "sourceType": "Película",
+      "source": "BackRooms",
+      "name": "Entities / Backrooms creatures",
+      "type": "Entidades",
+      "desc": "Seres de las Backrooms",
+      "rating": null,
+      "link": "https://en.wikipedia.org/wiki/The_Backrooms"
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Smiley",
+      "type": "Criatura nocturna",
+      "desc": "Criatura sonriente",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Milkman",
+      "type": "Criatura nocturna",
+      "desc": "Lechero",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Swing Coat",
+      "type": "Criatura nocturna",
+      "desc": "Abrigo / Swingcoat",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Waitress",
+      "type": "Criatura nocturna",
+      "desc": "Camarera",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Tough Guy",
+      "type": "Criatura nocturna",
+      "desc": "Tipo duro",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Western Star Cowboy",
+      "type": "Criatura nocturna",
+      "desc": "Cowboy",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Nurse",
+      "type": "Criatura nocturna",
+      "desc": "Enfermera",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Old Lady",
+      "type": "Criatura nocturna",
+      "desc": "Anciana",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Librarian",
+      "type": "Criatura nocturna",
+      "desc": "Bibliotecaria",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Mechanic",
+      "type": "Criatura nocturna",
+      "desc": "Mecánico",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Professor",
+      "type": "Criatura nocturna",
+      "desc": "Profesor",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Jock",
+      "type": "Criatura nocturna",
+      "desc": "Jugador / atleta",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Cheerleader",
+      "type": "Criatura nocturna",
+      "desc": "Animadora",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Jasmine",
+      "type": "Criatura nocturna",
+      "desc": "Joven hermosa",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Kevin",
+      "type": "Criatura nocturna",
+      "desc": "Kevin",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Boy in White",
+      "type": "Entidad sobrenatural",
+      "desc": "Niño de blanco",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Kimono Woman",
+      "type": "Entidad sobrenatural",
+      "desc": "Mujer del kimono",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Man in Yellow",
+      "type": "Entidad sobrenatural",
+      "desc": "Hombre del traje amarillo",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Music Box Monster",
+      "type": "Entidad de pesadilla",
+      "desc": "Monstruo de la caja de música",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Ballerina",
+      "type": "Entidad de pesadilla",
+      "desc": "Bailarina",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Cicadas",
+      "type": "Plaga sobrenatural",
+      "desc": "Cigarras",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Anghkooey Children",
+      "type": "Entidades infantiles",
+      "desc": "Niños Anghkooey",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "From",
+      "name": "Ghastly Children",
+      "type": "Entidades infantiles",
+      "desc": "Niños fantasmales",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Pennywise",
+      "type": "Entidad cambiante",
+      "desc": "Eso / Pennywise",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Deadlights",
+      "type": "Entidad cósmica",
+      "desc": "Luces de muerte",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Giant Spider",
+      "type": "Entidad cambiante",
+      "desc": "Araña gigante",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Werewolf",
+      "type": "Forma de IT",
+      "desc": "Hombre lobo",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "The Mummy",
+      "type": "Forma de IT",
+      "desc": "Momia",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Mrs. Kersh / Witch",
+      "type": "Forma de IT",
+      "desc": "Bruja",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Swamp Skeleton",
+      "type": "Forma de IT",
+      "desc": "Esqueleto del pantano",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Stanley's Head",
+      "type": "Forma de IT",
+      "desc": "Cabeza de Stanley",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Blue Zombie Belch Huggins",
+      "type": "Forma de IT",
+      "desc": "Zombi azul",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "IT (1990)",
+      "name": "Doberman Pinscher",
+      "type": "Forma de IT",
+      "desc": "Doberman",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Demon of Lot 36",
+      "type": "Demonio",
+      "desc": "Demonio tentacular",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Queen Rat",
+      "type": "Criatura animal",
+      "desc": "Reina rata",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Graveyard Rats",
+      "type": "Criaturas animales",
+      "desc": "Ratas de cementerio",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "The Autopsy Entity",
+      "type": "Entidad extraterrestre",
+      "desc": "Entidad extraterrestre",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Lotion Woman",
+      "type": "Criatura/entidad",
+      "desc": "Mujer de loción / Alo Glo",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Alo Glo",
+      "type": "Entidad/organismo",
+      "desc": "Loción",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Pickman Ghoul",
+      "type": "Criatura",
+      "desc": "Ghoul de Pickman",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Keziah Mason",
+      "type": "Bruja / entidad",
+      "desc": "Keziah Mason",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Brown Jenkin",
+      "type": "Criatura familiar",
+      "desc": "Brown Jenkin",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Blob Monster",
+      "type": "Criatura extraterrestre",
+      "desc": "Monstruo amorfo",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Claudette",
+      "type": "Fantasma",
+      "desc": "Fantasma de Claudette",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Child Ghost",
+      "type": "Fantasma",
+      "desc": "Niño fantasma",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "El Gabinete de Curiosidades de Guillermo del Toro",
+      "name": "Bird Murmuration",
+      "type": "Fenómeno sobrenatural",
+      "desc": "Murmuración de aves",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "The Boroughs",
+      "name": "Mother",
+      "type": "Entidad extraterrestre / cósmica",
+      "desc": "Mamá",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "The Boroughs",
+      "name": "Mother's Insect Children",
+      "type": "Criaturas",
+      "desc": "Hijos de Mother",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "The Boroughs",
+      "name": "Immortal Caretakers",
+      "type": "Seres humanos alterados",
+      "desc": "Cuidadores inmortales",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "30 Monedas",
+      "name": "Angelo / demon true form",
+      "type": "Demonio / entidad cósmica",
+      "desc": "Demonio de Angelo",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "30 Monedas",
+      "name": "Spider Child",
+      "type": "Criatura",
+      "desc": "Bebé/niño araña",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "30 Monedas",
+      "name": "Mirror Entity",
+      "type": "Entidad sobrenatural",
+      "desc": "Entidad del espejo",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "30 Monedas",
+      "name": "Demon (Javier Botet)",
+      "type": "Demonio",
+      "desc": "Demonio de Javier Botet",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "30 Monedas",
+      "name": "Biblical Demons",
+      "type": "Demonios",
+      "desc": "Demonios bíblicos",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "30 Monedas",
+      "name": "Cainite supernatural beings",
+      "type": "Entidades / secta sobrenatural",
+      "desc": "Caines",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "30 Monedas",
+      "name": "Hell creatures",
+      "type": "Criaturas infernales",
+      "desc": "Criaturas infernales",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "30 Monedas",
+      "name": "Reanimated double",
+      "type": "No-muerto / doppelgänger",
+      "desc": "El doble",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "Teacup",
+      "name": "Harbinger",
+      "type": "Entidad extraterrestre",
+      "desc": "Entidad que habita cuerpos",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "Serie",
+      "source": "Teacup",
+      "name": "Assassin",
+      "type": "Entidad extraterrestre",
+      "desc": "Asesino",
+      "rating": null,
+      "link": ""
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S (2012)",
+      "name": "Lily / Siren",
+      "type": "Criatura sobrenatural",
+      "desc": "Criatura depredadora que adopta apariencia humana; es el monstruo central del segmento.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/V/H/S",
+      "segment": "Amateur Night"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S (2012)",
+      "name": "Entidad demoníaca",
+      "type": "Demonio",
+      "desc": "Entidad demoníaca sobrenatural que ataca a los protagonistas.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/V/H/S",
+      "segment": "10/31/98"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/2 (2013)",
+      "name": "Zombis / infectados",
+      "type": "No-muertos",
+      "desc": "Los atacantes son zombis y el protagonista termina transformado en uno.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/V/H/S_2",
+      "segment": "A Ride in the Park"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/2 (2013)",
+      "name": "Entidad / demonio de Safe Haven",
+      "type": "Entidad demoníaca",
+      "desc": "Presencia sobrenatural central del culto; el segmento culmina con una manifestación monstruosa.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/V/H/S_2",
+      "segment": "Safe Haven"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/2 (2013)",
+      "name": "Aliens",
+      "type": "Extraterrestres",
+      "desc": "Grupo de criaturas extraterrestres que persigue y abduce a los personajes.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/V/H/S_2",
+      "segment": "Slumber Party Alien Abduction"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S: Viral (2014)",
+      "name": "Capa demoníaca",
+      "type": "Artefacto/entidad sobrenatural",
+      "desc": "La capa está poseída y se alimenta de las víctimas; sus brazos emergen físicamente.",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/V/H/S%3A_Viral",
+      "segment": "Dante the Great"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S: Viral (2014)",
+      "name": "Doppelgängers demoníacos",
+      "type": "Entidades interdimensionales",
+      "desc": "Versiones paralelas monstruosas de los personajes; muestran rasgos demoníacos.",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/V/H/S%3A_Viral",
+      "segment": "Parallel Monsters"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S: Viral (2014)",
+      "name": "Esqueletos reanimados",
+      "type": "No-muertos",
+      "desc": "Esqueletos reanimados que atacan durante el ritual.",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/V/H/S%3A_Viral",
+      "segment": "Bonestorm"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S: Viral (2014)",
+      "name": "Deidad / criatura monstruosa",
+      "type": "Entidad sobrenatural",
+      "desc": "Entidad monstruosa de naturaleza inexplicable vinculada al ritual.",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/V/H/S%3A_Viral",
+      "segment": "Bonestorm"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/94 (2021)",
+      "name": "Raatma / Rat Man",
+      "type": "Criatura sobrenatural",
+      "desc": "Criatura central de la leyenda; vomita una sustancia negra y es venerada por sus seguidores.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/Storm_Drain",
+      "segment": "Storm Drain"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/94 (2021)",
+      "name": "Andrew Edwards reanimado",
+      "type": "No-muerto",
+      "desc": "El cadáver sale del ataúd y se comporta como una criatura no-muerta.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/The_Empty_Wake",
+      "segment": "The Empty Wake"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/94 (2021)",
+      "name": "The Subject / híbrido cibernético",
+      "type": "Cyborg / criatura de body horror",
+      "desc": "Humano transformado en un monstruo biomecánico; incluye implantes mecánicos y mutaciones.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/The_Subject",
+      "segment": "The Subject"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/94 (2021)",
+      "name": "Híbridos mecánico-humanos",
+      "type": "Cyborgs",
+      "desc": "Otros experimentos convertidos por el científico en híbridos mecánico-humanos.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/The_Subject",
+      "segment": "The Subject"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/94 (2021)",
+      "name": "Vampiro",
+      "type": "Vampiro",
+      "desc": "Criatura vampírica cuya sangre es utilizada como arma.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/V/H/S/94",
+      "segment": "Terror"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/94 (2021)",
+      "name": "Conejo vampiro",
+      "type": "Criatura vampírica",
+      "desc": "Criatura monstruosa de aspecto de conejo, usada como arma biológica/explosiva.",
+      "rating": null,
+      "link": "https://modernhorrors.com/shots-on-video-ranking-every-segment-of-the-v-h-s-franchise/",
+      "segment": "Terror"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/99 (2022)",
+      "name": "Zombis / muertos reanimados",
+      "type": "No-muertos",
+      "desc": "Los integrantes atacados regresan como zombis/reanimados.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/%22V/H/S/99%22",
+      "segment": "Shredding"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/99 (2022)",
+      "name": "Giltine reanimada",
+      "type": "No-muerto / zombi",
+      "desc": "La joven de la leyenda regresa como un zombi y ataca a las integrantes de la hermandad.",
+      "rating": null,
+      "link": "https://listofdeaths.fandom.com/wiki/V/H/S/99",
+      "segment": "Suicide Bid"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/99 (2022)",
+      "name": "Ozzy",
+      "type": "Demonio / criatura",
+      "desc": "Criatura que vive dentro de un cuerpo anfitrión y concede deseos; termina manifestándose como un ser monstruoso.",
+      "rating": null,
+      "link": "https://creature-features.fandom.com/wiki/Ozzy",
+      "segment": "Ozzy's Dungeon"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/99 (2022)",
+      "name": "Gorgona / Medusa",
+      "type": "Criatura mitológica",
+      "desc": "Sandra revela una naturaleza de gorgona; su mirada tiene un efecto mortal/petrificante.",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/V/H/S/99",
+      "segment": "The Gawkers"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/99 (2022)",
+      "name": "Ukabon",
+      "type": "Demonio",
+      "desc": "Demonio principal del ritual infernal.",
+      "rating": null,
+      "link": "https://filmaniak.com/v-h-s-99/",
+      "segment": "To Hell and Back"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/99 (2022)",
+      "name": "Furcas",
+      "type": "Demonio",
+      "desc": "Demonio que arrastra a los protagonistas bajo el altar y aparece en el entorno infernal.",
+      "rating": null,
+      "link": "https://filmaniak.com/v-h-s-99/",
+      "segment": "To Hell and Back"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/99 (2022)",
+      "name": "Bloodletters",
+      "type": "Criaturas infernales",
+      "desc": "Criaturas del infierno que aparecen durante el recorrido de los protagonistas.",
+      "rating": null,
+      "link": "https://filmaniak.com/v-h-s-99/",
+      "segment": "To Hell and Back"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/99 (2022)",
+      "name": "Demonios alados",
+      "type": "Criaturas infernales",
+      "desc": "Seres demoníacos alados presentes en el paisaje infernal.",
+      "rating": null,
+      "link": "https://filmaniak.com/v-h-s-99/",
+      "segment": "To Hell and Back"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/85 (2023)",
+      "name": "Rory",
+      "type": "Entidad cambiaformas",
+      "desc": "Entidad experimental capaz de mutar y adoptar una forma humana; desarrolla apéndices y otras mutaciones.",
+      "rating": null,
+      "link": "https://vhshorror.fandom.com/wiki/V/H/S/85",
+      "segment": "Total Copy"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/85 (2023)",
+      "name": "Mictlantecuhtli / God of Death",
+      "type": "Deidad / entidad sobrenatural",
+      "desc": "Entidad que posee a los personajes y se manifiesta para arrancar y devorar corazones.",
+      "rating": null,
+      "link": "https://horror.fandom.com/wiki/V/H/S/85",
+      "segment": "God of Death"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/85 (2023)",
+      "name": "Dios de la Tecnología / entidad digital",
+      "type": "Entidad tecnológica",
+      "desc": "Entidad que aparece en el plano digital y afecta físicamente al cuerpo de la protagonista.",
+      "rating": null,
+      "link": "https://es.wikipedia.org/wiki/V/H/S/85",
+      "segment": "TKNOGD"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Beyond (2024)",
+      "name": "Stork",
+      "type": "Criatura extraterrestre / biomecánica",
+      "desc": "Criatura monstruosa asociada a las desapariciones de bebés; aparecen híbridos biomecánicos.",
+      "rating": null,
+      "link": "https://shapes.inc/fandom/v-h-s-beyond/episodes-guide",
+      "segment": "Stork"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Beyond (2024)",
+      "name": "Híbridos biomecánicos",
+      "type": "Extraterrestres",
+      "desc": "Criaturas humanoides biomecánicas encontradas en el nido subterráneo.",
+      "rating": null,
+      "link": "https://shapes.inc/fandom/v-h-s-beyond/episodes-guide",
+      "segment": "Stork"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Beyond (2024)",
+      "name": "Entidad extraterrestre de Dream Girl",
+      "type": "Extraterrestre",
+      "desc": "La figura central del segmento presenta una naturaleza no humana y capacidades extraordinarias.",
+      "rating": null,
+      "link": "https://www.cassandra-morgan.com/blog/2024/10/7/vhs-beyond-2024",
+      "segment": "Dream Girl"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Beyond (2024)",
+      "name": "Extraterrestres",
+      "type": "Extraterrestres",
+      "desc": "Criaturas extraterrestres vinculadas a la nave/encuentro durante el salto.",
+      "rating": null,
+      "link": "https://www.cassandra-morgan.com/blog/2024/10/7/vhs-beyond-2024",
+      "segment": "Live and Let Dive"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Beyond (2024)",
+      "name": "Criaturas híbridas perro-humano",
+      "type": "Mutantes / criaturas",
+      "desc": "Seres transformados y deformados dentro del centro de cuidado de animales.",
+      "rating": null,
+      "link": "https://www.cassandra-morgan.com/blog/2024/10/7/vhs-beyond-2024",
+      "segment": "Fur Babies"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Beyond (2024)",
+      "name": "Alienígena",
+      "type": "Extraterrestre",
+      "desc": "Criatura extraterrestre encontrada dentro de la nave.",
+      "rating": null,
+      "link": "https://www.cassandra-morgan.com/blog/2024/10/7/vhs-beyond-2024",
+      "segment": "Stowaway"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "The Mommy",
+      "type": "Criatura / entidad sobrenatural",
+      "desc": "Figura monstruosa maternal que secuestra y transforma a las víctimas.",
+      "rating": null,
+      "link": "https://www.commonsensemedia.org/movie-reviews/vhshalloween",
+      "segment": "Coochie Coochie Coo"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "Demonio",
+      "type": "Demonio",
+      "desc": "Entidad demoníaca invocada mediante un teléfono/ritual.",
+      "rating": null,
+      "link": "https://www.imdb.com/es/title/tt37676033/fullcredits/",
+      "segment": "Ut Supra Sic Infra"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "Enric poseído",
+      "type": "Humano poseído / transformación",
+      "desc": "Enric queda poseído y se transforma en el instrumento físico de la entidad; se incluye por el cambio monstruoso.",
+      "rating": null,
+      "link": "https://www.abandomoviez.net/reportaje.php?id_reportaje=6744&pag=1",
+      "segment": "Ut Supra Sic Infra"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "Mr. Fun Size / monstruo de la fábrica",
+      "type": "Criatura sobrenatural",
+      "desc": "Ser monstruoso que domina la fábrica y transforma cuerpos en golosinas vivientes.",
+      "rating": null,
+      "link": "https://inreviewonline.com/2025/10/03/vhs-halloween-review/",
+      "segment": "Fun Size"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "Golosinas vivientes / víctimas transformadas",
+      "type": "Transformaciones monstruosas",
+      "desc": "Personas convertidas en criaturas/golosinas como parte de la lógica sobrenatural del segmento.",
+      "rating": null,
+      "link": "https://www.abandomoviez.net/reportaje.php?id_reportaje=6744&pag=1",
+      "segment": "Fun Size"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "Ghoul podrido",
+      "type": "No-muerto / criatura animada",
+      "desc": "Decoración monstruosa que cobra vida físicamente por la maldición del disco.",
+      "rating": null,
+      "link": "https://www.imdb.com/es/title/tt37676033/fullcredits/",
+      "segment": "Home Haunt"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "Bruja voladora",
+      "type": "Criatura animada / bruja",
+      "desc": "Figura de la casa de terror que cobra vida y ataca.",
+      "rating": null,
+      "link": "https://www.imdb.com/es/title/tt37676033/fullcredits/",
+      "segment": "Home Haunt"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "Bailarina monstruosa",
+      "type": "Criatura animada",
+      "desc": "Adorno de la casa de terror que pasa a ser una amenaza física.",
+      "rating": null,
+      "link": "https://www.imdb.com/es/title/tt37676033/fullcredits/",
+      "segment": "Home Haunt"
+    },
+    {
+      "sourceType": "V/H/S",
+      "source": "V/H/S/Halloween (2025)",
+      "name": "Verdugo",
+      "type": "Criatura animada",
+      "desc": "Figura/prop monstruoso que forma parte de la casa de terror y cobra vida.",
+      "rating": null,
+      "link": "https://www.imdb.com/es/title/tt37676033/fullcredits/",
+      "segment": "Home Haunt"
+    }
+  ],
+  "vhs": [
+    {
+      "movie": "V/H/S (2012)",
+      "segment": "Amateur Night",
+      "name": "Lily / Siren",
+      "type": "Criatura sobrenatural",
+      "desc": "Criatura depredadora que adopta apariencia humana; es el monstruo central del segmento.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/V/H/S"
+    },
+    {
+      "movie": "V/H/S (2012)",
+      "segment": "10/31/98",
+      "name": "Entidad demoníaca",
+      "type": "Demonio",
+      "desc": "Entidad demoníaca sobrenatural que ataca a los protagonistas.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/V/H/S"
+    },
+    {
+      "movie": "V/H/S/2 (2013)",
+      "segment": "A Ride in the Park",
+      "name": "Zombis / infectados",
+      "type": "No-muertos",
+      "desc": "Los atacantes son zombis y el protagonista termina transformado en uno.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/V/H/S_2"
+    },
+    {
+      "movie": "V/H/S/2 (2013)",
+      "segment": "Safe Haven",
+      "name": "Entidad / demonio de Safe Haven",
+      "type": "Entidad demoníaca",
+      "desc": "Presencia sobrenatural central del culto; el segmento culmina con una manifestación monstruosa.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/V/H/S_2"
+    },
+    {
+      "movie": "V/H/S/2 (2013)",
+      "segment": "Slumber Party Alien Abduction",
+      "name": "Aliens",
+      "type": "Extraterrestres",
+      "desc": "Grupo de criaturas extraterrestres que persigue y abduce a los personajes.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/V/H/S_2"
+    },
+    {
+      "movie": "V/H/S: Viral (2014)",
+      "segment": "Dante the Great",
+      "name": "Capa demoníaca",
+      "type": "Artefacto/entidad sobrenatural",
+      "desc": "La capa está poseída y se alimenta de las víctimas; sus brazos emergen físicamente.",
+      "rating": null,
+      "source": "https://es.wikipedia.org/wiki/V/H/S%3A_Viral"
+    },
+    {
+      "movie": "V/H/S: Viral (2014)",
+      "segment": "Parallel Monsters",
+      "name": "Doppelgängers demoníacos",
+      "type": "Entidades interdimensionales",
+      "desc": "Versiones paralelas monstruosas de los personajes; muestran rasgos demoníacos.",
+      "rating": null,
+      "source": "https://es.wikipedia.org/wiki/V/H/S%3A_Viral"
+    },
+    {
+      "movie": "V/H/S: Viral (2014)",
+      "segment": "Bonestorm",
+      "name": "Esqueletos reanimados",
+      "type": "No-muertos",
+      "desc": "Esqueletos reanimados que atacan durante el ritual.",
+      "rating": null,
+      "source": "https://es.wikipedia.org/wiki/V/H/S%3A_Viral"
+    },
+    {
+      "movie": "V/H/S: Viral (2014)",
+      "segment": "Bonestorm",
+      "name": "Deidad / criatura monstruosa",
+      "type": "Entidad sobrenatural",
+      "desc": "Entidad monstruosa de naturaleza inexplicable vinculada al ritual.",
+      "rating": null,
+      "source": "https://es.wikipedia.org/wiki/V/H/S%3A_Viral"
+    },
+    {
+      "movie": "V/H/S/94 (2021)",
+      "segment": "Storm Drain",
+      "name": "Raatma / Rat Man",
+      "type": "Criatura sobrenatural",
+      "desc": "Criatura central de la leyenda; vomita una sustancia negra y es venerada por sus seguidores.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/Storm_Drain"
+    },
+    {
+      "movie": "V/H/S/94 (2021)",
+      "segment": "The Empty Wake",
+      "name": "Andrew Edwards reanimado",
+      "type": "No-muerto",
+      "desc": "El cadáver sale del ataúd y se comporta como una criatura no-muerta.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/The_Empty_Wake"
+    },
+    {
+      "movie": "V/H/S/94 (2021)",
+      "segment": "The Subject",
+      "name": "The Subject / híbrido cibernético",
+      "type": "Cyborg / criatura de body horror",
+      "desc": "Humano transformado en un monstruo biomecánico; incluye implantes mecánicos y mutaciones.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/The_Subject"
+    },
+    {
+      "movie": "V/H/S/94 (2021)",
+      "segment": "The Subject",
+      "name": "Híbridos mecánico-humanos",
+      "type": "Cyborgs",
+      "desc": "Otros experimentos convertidos por el científico en híbridos mecánico-humanos.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/The_Subject"
+    },
+    {
+      "movie": "V/H/S/94 (2021)",
+      "segment": "Terror",
+      "name": "Vampiro",
+      "type": "Vampiro",
+      "desc": "Criatura vampírica cuya sangre es utilizada como arma.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/V/H/S/94"
+    },
+    {
+      "movie": "V/H/S/94 (2021)",
+      "segment": "Terror",
+      "name": "Conejo vampiro",
+      "type": "Criatura vampírica",
+      "desc": "Criatura monstruosa de aspecto de conejo, usada como arma biológica/explosiva.",
+      "rating": null,
+      "source": "https://modernhorrors.com/shots-on-video-ranking-every-segment-of-the-v-h-s-franchise/"
+    },
+    {
+      "movie": "V/H/S/99 (2022)",
+      "segment": "Shredding",
+      "name": "Zombis / muertos reanimados",
+      "type": "No-muertos",
+      "desc": "Los integrantes atacados regresan como zombis/reanimados.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/%22V/H/S/99%22"
+    },
+    {
+      "movie": "V/H/S/99 (2022)",
+      "segment": "Suicide Bid",
+      "name": "Giltine reanimada",
+      "type": "No-muerto / zombi",
+      "desc": "La joven de la leyenda regresa como un zombi y ataca a las integrantes de la hermandad.",
+      "rating": null,
+      "source": "https://listofdeaths.fandom.com/wiki/V/H/S/99"
+    },
+    {
+      "movie": "V/H/S/99 (2022)",
+      "segment": "Ozzy's Dungeon",
+      "name": "Ozzy",
+      "type": "Demonio / criatura",
+      "desc": "Criatura que vive dentro de un cuerpo anfitrión y concede deseos; termina manifestándose como un ser monstruoso.",
+      "rating": null,
+      "source": "https://creature-features.fandom.com/wiki/Ozzy"
+    },
+    {
+      "movie": "V/H/S/99 (2022)",
+      "segment": "The Gawkers",
+      "name": "Gorgona / Medusa",
+      "type": "Criatura mitológica",
+      "desc": "Sandra revela una naturaleza de gorgona; su mirada tiene un efecto mortal/petrificante.",
+      "rating": null,
+      "source": "https://es.wikipedia.org/wiki/V/H/S/99"
+    },
+    {
+      "movie": "V/H/S/99 (2022)",
+      "segment": "To Hell and Back",
+      "name": "Ukabon",
+      "type": "Demonio",
+      "desc": "Demonio principal del ritual infernal.",
+      "rating": null,
+      "source": "https://filmaniak.com/v-h-s-99/"
+    },
+    {
+      "movie": "V/H/S/99 (2022)",
+      "segment": "To Hell and Back",
+      "name": "Furcas",
+      "type": "Demonio",
+      "desc": "Demonio que arrastra a los protagonistas bajo el altar y aparece en el entorno infernal.",
+      "rating": null,
+      "source": "https://filmaniak.com/v-h-s-99/"
+    },
+    {
+      "movie": "V/H/S/99 (2022)",
+      "segment": "To Hell and Back",
+      "name": "Bloodletters",
+      "type": "Criaturas infernales",
+      "desc": "Criaturas del infierno que aparecen durante el recorrido de los protagonistas.",
+      "rating": null,
+      "source": "https://filmaniak.com/v-h-s-99/"
+    },
+    {
+      "movie": "V/H/S/99 (2022)",
+      "segment": "To Hell and Back",
+      "name": "Demonios alados",
+      "type": "Criaturas infernales",
+      "desc": "Seres demoníacos alados presentes en el paisaje infernal.",
+      "rating": null,
+      "source": "https://filmaniak.com/v-h-s-99/"
+    },
+    {
+      "movie": "V/H/S/85 (2023)",
+      "segment": "Total Copy",
+      "name": "Rory",
+      "type": "Entidad cambiaformas",
+      "desc": "Entidad experimental capaz de mutar y adoptar una forma humana; desarrolla apéndices y otras mutaciones.",
+      "rating": null,
+      "source": "https://vhshorror.fandom.com/wiki/V/H/S/85"
+    },
+    {
+      "movie": "V/H/S/85 (2023)",
+      "segment": "God of Death",
+      "name": "Mictlantecuhtli / God of Death",
+      "type": "Deidad / entidad sobrenatural",
+      "desc": "Entidad que posee a los personajes y se manifiesta para arrancar y devorar corazones.",
+      "rating": null,
+      "source": "https://horror.fandom.com/wiki/V/H/S/85"
+    },
+    {
+      "movie": "V/H/S/85 (2023)",
+      "segment": "TKNOGD",
+      "name": "Dios de la Tecnología / entidad digital",
+      "type": "Entidad tecnológica",
+      "desc": "Entidad que aparece en el plano digital y afecta físicamente al cuerpo de la protagonista.",
+      "rating": null,
+      "source": "https://es.wikipedia.org/wiki/V/H/S/85"
+    },
+    {
+      "movie": "V/H/S/Beyond (2024)",
+      "segment": "Stork",
+      "name": "Stork",
+      "type": "Criatura extraterrestre / biomecánica",
+      "desc": "Criatura monstruosa asociada a las desapariciones de bebés; aparecen híbridos biomecánicos.",
+      "rating": null,
+      "source": "https://shapes.inc/fandom/v-h-s-beyond/episodes-guide"
+    },
+    {
+      "movie": "V/H/S/Beyond (2024)",
+      "segment": "Stork",
+      "name": "Híbridos biomecánicos",
+      "type": "Extraterrestres",
+      "desc": "Criaturas humanoides biomecánicas encontradas en el nido subterráneo.",
+      "rating": null,
+      "source": "https://shapes.inc/fandom/v-h-s-beyond/episodes-guide"
+    },
+    {
+      "movie": "V/H/S/Beyond (2024)",
+      "segment": "Dream Girl",
+      "name": "Entidad extraterrestre de Dream Girl",
+      "type": "Extraterrestre",
+      "desc": "La figura central del segmento presenta una naturaleza no humana y capacidades extraordinarias.",
+      "rating": null,
+      "source": "https://www.cassandra-morgan.com/blog/2024/10/7/vhs-beyond-2024"
+    },
+    {
+      "movie": "V/H/S/Beyond (2024)",
+      "segment": "Live and Let Dive",
+      "name": "Extraterrestres",
+      "type": "Extraterrestres",
+      "desc": "Criaturas extraterrestres vinculadas a la nave/encuentro durante el salto.",
+      "rating": null,
+      "source": "https://www.cassandra-morgan.com/blog/2024/10/7/vhs-beyond-2024"
+    },
+    {
+      "movie": "V/H/S/Beyond (2024)",
+      "segment": "Fur Babies",
+      "name": "Criaturas híbridas perro-humano",
+      "type": "Mutantes / criaturas",
+      "desc": "Seres transformados y deformados dentro del centro de cuidado de animales.",
+      "rating": null,
+      "source": "https://www.cassandra-morgan.com/blog/2024/10/7/vhs-beyond-2024"
+    },
+    {
+      "movie": "V/H/S/Beyond (2024)",
+      "segment": "Stowaway",
+      "name": "Alienígena",
+      "type": "Extraterrestre",
+      "desc": "Criatura extraterrestre encontrada dentro de la nave.",
+      "rating": null,
+      "source": "https://www.cassandra-morgan.com/blog/2024/10/7/vhs-beyond-2024"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Coochie Coochie Coo",
+      "name": "The Mommy",
+      "type": "Criatura / entidad sobrenatural",
+      "desc": "Figura monstruosa maternal que secuestra y transforma a las víctimas.",
+      "rating": null,
+      "source": "https://www.commonsensemedia.org/movie-reviews/vhshalloween"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Ut Supra Sic Infra",
+      "name": "Demonio",
+      "type": "Demonio",
+      "desc": "Entidad demoníaca invocada mediante un teléfono/ritual.",
+      "rating": null,
+      "source": "https://www.imdb.com/es/title/tt37676033/fullcredits/"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Ut Supra Sic Infra",
+      "name": "Enric poseído",
+      "type": "Humano poseído / transformación",
+      "desc": "Enric queda poseído y se transforma en el instrumento físico de la entidad; se incluye por el cambio monstruoso.",
+      "rating": null,
+      "source": "https://www.abandomoviez.net/reportaje.php?id_reportaje=6744&pag=1"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Fun Size",
+      "name": "Mr. Fun Size / monstruo de la fábrica",
+      "type": "Criatura sobrenatural",
+      "desc": "Ser monstruoso que domina la fábrica y transforma cuerpos en golosinas vivientes.",
+      "rating": null,
+      "source": "https://inreviewonline.com/2025/10/03/vhs-halloween-review/"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Fun Size",
+      "name": "Golosinas vivientes / víctimas transformadas",
+      "type": "Transformaciones monstruosas",
+      "desc": "Personas convertidas en criaturas/golosinas como parte de la lógica sobrenatural del segmento.",
+      "rating": null,
+      "source": "https://www.abandomoviez.net/reportaje.php?id_reportaje=6744&pag=1"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Home Haunt",
+      "name": "Ghoul podrido",
+      "type": "No-muerto / criatura animada",
+      "desc": "Decoración monstruosa que cobra vida físicamente por la maldición del disco.",
+      "rating": null,
+      "source": "https://www.imdb.com/es/title/tt37676033/fullcredits/"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Home Haunt",
+      "name": "Bruja voladora",
+      "type": "Criatura animada / bruja",
+      "desc": "Figura de la casa de terror que cobra vida y ataca.",
+      "rating": null,
+      "source": "https://www.imdb.com/es/title/tt37676033/fullcredits/"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Home Haunt",
+      "name": "Bailarina monstruosa",
+      "type": "Criatura animada",
+      "desc": "Adorno de la casa de terror que pasa a ser una amenaza física.",
+      "rating": null,
+      "source": "https://www.imdb.com/es/title/tt37676033/fullcredits/"
+    },
+    {
+      "movie": "V/H/S/Halloween (2025)",
+      "segment": "Home Haunt",
+      "name": "Verdugo",
+      "type": "Criatura animada",
+      "desc": "Figura/prop monstruoso que forma parte de la casa de terror y cobra vida.",
+      "rating": null,
+      "source": "https://www.imdb.com/es/title/tt37676033/fullcredits/"
+    }
+  ],
+  "updated": "2026-09-13"
+}
