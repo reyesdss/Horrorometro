@@ -1,0 +1,62 @@
+[
+  {
+    "id": "from",
+    "title": "From",
+    "format": "Serie",
+    "start": 2022,
+    "seasons": 4,
+    "episodes": 40,
+    "imdb": 7.8,
+    "kind": "series"
+  },
+  {
+    "id": "it-1990",
+    "title": "IT (1990)",
+    "format": "Miniserie",
+    "start": 1990,
+    "seasons": 1,
+    "episodes": 2,
+    "imdb": 6.8,
+    "kind": "series"
+  },
+  {
+    "id": "el-gabinete-de-curiosidades-de-guillermo-del-toro",
+    "title": "El Gabinete de Curiosidades de Guillermo del Toro",
+    "format": "Antología",
+    "start": 2022,
+    "seasons": 1,
+    "episodes": 8,
+    "imdb": 7,
+    "kind": "series"
+  },
+  {
+    "id": "the-boroughs",
+    "title": "The Boroughs",
+    "format": "Serie",
+    "start": 2026,
+    "seasons": 1,
+    "episodes": 8,
+    "imdb": 7.2,
+    "kind": "series"
+  },
+  {
+    "id": "30-monedas",
+    "title": "30 Monedas",
+    "format": "Serie",
+    "start": 2020,
+    "seasons": 2,
+    "episodes": 16,
+    "imdb": 7,
+    "kind": "series"
+  },
+  {
+    "id": "teacup",
+    "title": "Teacup",
+    "format": "Serie limitada",
+    "start": 2024,
+    "seasons": 1,
+    "episodes": 8,
+    "imdb": 6.3,
+    "kind": "series"
+  }
+]

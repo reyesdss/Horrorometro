@@ -1,0 +1,895 @@
+[
+  {
+    "id": "m1",
+    "rank": 1,
+    "title": "The Fourth Kind (El Cuarto Contacto) (2009)",
+    "rating": 10.0,
+    "year": 2009,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m2",
+    "rank": 2,
+    "title": "The Ritual (2017)",
+    "rating": 10.0,
+    "year": 2017,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m3",
+    "rank": 3,
+    "title": "Cuando Acecha la Maldad (2023)",
+    "rating": 10.0,
+    "year": 2023,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m4",
+    "rank": 4,
+    "title": "Hereditary (2018)",
+    "rating": 10.0,
+    "year": 2018,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m5",
+    "rank": 5,
+    "title": "Actividad Paranormal 3 (2011)",
+    "rating": 10.0,
+    "year": 2011,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m6",
+    "rank": 6,
+    "title": "Dark Skies (Los Elegidos) (2013)",
+    "rating": 10.0,
+    "year": 2013,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m7",
+    "rank": 7,
+    "title": "Aterrados (2017)",
+    "rating": 10.0,
+    "year": 2017,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m8",
+    "rank": 8,
+    "title": "The Witch (2015)",
+    "rating": 10.0,
+    "year": 2015,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m9",
+    "rank": 9,
+    "title": "Color Out of Space (2019)",
+    "rating": 10.0,
+    "year": 2019,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m10",
+    "rank": 10,
+    "title": "The Thing (2011)",
+    "rating": 10.0,
+    "year": 2011,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m11",
+    "rank": 11,
+    "title": "The Mist (2007)",
+    "rating": 10.0,
+    "year": 2007,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m12",
+    "rank": 12,
+    "title": "The Void (2016)",
+    "rating": 10.0,
+    "year": 2016,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m13",
+    "rank": 13,
+    "title": "Coherence (2013)",
+    "rating": 9.5,
+    "year": 2013,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m14",
+    "rank": 14,
+    "title": "Ghostland (2018)",
+    "rating": 9.5,
+    "year": 2018,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m15",
+    "rank": 15,
+    "title": "Nope (2022)",
+    "rating": 9.5,
+    "year": 2022,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m16",
+    "rank": 16,
+    "title": "Pandorum (2009)",
+    "rating": 9.5,
+    "year": 2009,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m17",
+    "rank": 17,
+    "title": "Annihilation (2018)",
+    "rating": 9.0,
+    "year": 2018,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m18",
+    "rank": 18,
+    "title": "Paranormal Activity: The Marked Ones (2014)",
+    "rating": 9.0,
+    "year": 2014,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m19",
+    "rank": 19,
+    "title": "V/H/S 2 (2013)",
+    "rating": 9.0,
+    "year": 2013,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m20",
+    "rank": 20,
+    "title": "El Gabinete: La visita (2022)",
+    "rating": 9.0,
+    "year": 2022,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m21",
+    "rank": 21,
+    "title": "El Páramo (2021)",
+    "rating": 9.0,
+    "year": 2021,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m22",
+    "rank": 22,
+    "title": "V/H/S (2012)",
+    "rating": 9.0,
+    "year": 2012,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m23",
+    "rank": 23,
+    "title": "Observados (2023)",
+    "rating": 9.0,
+    "year": 2023,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m24",
+    "rank": 24,
+    "title": "Paranormal Activity: The Ghost Dimension (2015)",
+    "rating": 9.0,
+    "year": 2015,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m25",
+    "rank": 25,
+    "title": "V/H/S Beyond (2024)",
+    "rating": 9.0,
+    "year": 2024,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m26",
+    "rank": 26,
+    "title": "Barbarian (2022)",
+    "rating": 8.5,
+    "year": 2022,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m27",
+    "rank": 27,
+    "title": "Huye (2017)",
+    "rating": 8.5,
+    "year": 2017,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m28",
+    "rank": 28,
+    "title": "Señales (2002)",
+    "rating": 8.5,
+    "year": 2002,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m29",
+    "rank": 29,
+    "title": "Grave Encounters (2011)",
+    "rating": 8.5,
+    "year": 2011,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m30",
+    "rank": 30,
+    "title": "No One Will Save You (2023)",
+    "rating": 8.5,
+    "year": 2023,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m31",
+    "rank": 31,
+    "title": "La sustancia (2024)",
+    "rating": 8.5,
+    "year": 2024,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m32",
+    "rank": 32,
+    "title": "Muerte en Silencio (Dead Silence) (2007)",
+    "rating": 8.5,
+    "year": 2007,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m33",
+    "rank": 33,
+    "title": "Actividad Paranormal (2007)",
+    "rating": 8.5,
+    "year": 2007,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m34",
+    "rank": 34,
+    "title": "Actividad Paranormal 2 (2010)",
+    "rating": 8.5,
+    "year": 2010,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m35",
+    "rank": 35,
+    "title": "Actividad Paranormal 4 (2012)",
+    "rating": 8.5,
+    "year": 2012,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m36",
+    "rank": 36,
+    "title": "Alien Romulus (2024)",
+    "rating": 8.5,
+    "year": 2024,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m37",
+    "rank": 37,
+    "title": "El Descenso (2005)",
+    "rating": 8.5,
+    "year": 2005,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m38",
+    "rank": 38,
+    "title": "Secretos Ocultos (2017)",
+    "rating": 8.5,
+    "year": 2017,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m39",
+    "rank": 39,
+    "title": "El Gabinete:  Lot 36 (2022)",
+    "rating": 8.5,
+    "year": 2022,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m40",
+    "rank": 40,
+    "title": "Despues del Apocalipcis (2024)",
+    "rating": 8.5,
+    "year": 2024,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m41",
+    "rank": 41,
+    "title": "V/H/S 94 (2021)",
+    "rating": 8.5,
+    "year": 2021,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m42",
+    "rank": 42,
+    "title": "Siniestro",
+    "rating": 8.5,
+    "year": null,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m43",
+    "rank": 43,
+    "title": "V/H/S 85 (2023)",
+    "rating": 8.0,
+    "year": 2023,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m44",
+    "rank": 44,
+    "title": "En Otras Dimenciones (2023)",
+    "rating": 8.0,
+    "year": 2023,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m45",
+    "rank": 45,
+    "title": "V/H/S 99 (2022)",
+    "rating": 8.0,
+    "year": 2022,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m46",
+    "rank": 46,
+    "title": "Demoniaca (2020)",
+    "rating": 8.0,
+    "year": 2020,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m47",
+    "rank": 47,
+    "title": "Area 51 (2015)",
+    "rating": 8.0,
+    "year": 2015,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m48",
+    "rank": 48,
+    "title": "The Others (2001)",
+    "rating": 8.0,
+    "year": 2001,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m49",
+    "rank": 49,
+    "title": "The Medium (2021)",
+    "rating": 8.0,
+    "year": 2021,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m50",
+    "rank": 50,
+    "title": "The Endless (2017)",
+    "rating": 8.0,
+    "year": 2017,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m51",
+    "rank": 51,
+    "title": "Hell House LLC (2015)",
+    "rating": 8.0,
+    "year": 2015,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m52",
+    "rank": 52,
+    "title": "Detras de las paredes (2011)",
+    "rating": 8.0,
+    "year": 2011,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m53",
+    "rank": 53,
+    "title": "Shutter (2021)",
+    "rating": 8.0,
+    "year": 2021,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m54",
+    "rank": 54,
+    "title": "El Wendigo (2019)",
+    "rating": 8.0,
+    "year": 2019,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m55",
+    "rank": 55,
+    "title": "Nadie Sale Vivo (2021)",
+    "rating": 8.0,
+    "year": 2021,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m56",
+    "rank": 56,
+    "title": "REC (2007)",
+    "rating": 8.0,
+    "year": 2007,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m57",
+    "rank": 57,
+    "title": "La Cabaña (The Cabin in the Woods) (2012)",
+    "rating": 8.0,
+    "year": 2012,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m58",
+    "rank": 58,
+    "title": "Así en la Tierra Como en el Infierno (2014)",
+    "rating": 8.0,
+    "year": 2014,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m59",
+    "rank": 59,
+    "title": "La Cura Siniestra (2016)",
+    "rating": 8.0,
+    "year": 2016,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m60",
+    "rank": 60,
+    "title": "La Maldicion de Charlie (2015)",
+    "rating": 8.0,
+    "year": 2015,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m61",
+    "rank": 61,
+    "title": "The Empty Man (2020)",
+    "rating": 8.0,
+    "year": 2020,
+    "tags": [
+      "Horror Cósmico"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m62",
+    "rank": 62,
+    "title": "The Visit (2015)",
+    "rating": 8.0,
+    "year": 2015,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m63",
+    "rank": 63,
+    "title": "Skinwalker: El Rancho Maldito (2020)",
+    "rating": 8.0,
+    "year": 2020,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m64",
+    "rank": 64,
+    "title": "The Wretched (2019)",
+    "rating": 7.5,
+    "year": 2019,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m65",
+    "rank": 65,
+    "title": "Desaparecer Por Completo (2024)",
+    "rating": 7.5,
+    "year": 2024,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m66",
+    "rank": 66,
+    "title": "El Triangulo (2009)",
+    "rating": 7.5,
+    "year": 2009,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m67",
+    "rank": 67,
+    "title": "Smile (2022)",
+    "rating": 7.5,
+    "year": 2022,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m68",
+    "rank": 68,
+    "title": "Belcebud (2017)",
+    "rating": 7.5,
+    "year": 2017,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m69",
+    "rank": 69,
+    "title": "Llaman a la Puerta (2023)",
+    "rating": 7.5,
+    "year": 2023,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m70",
+    "rank": 70,
+    "title": "Phoenix Forgotten (2017)",
+    "rating": 7.5,
+    "year": 2017,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m71",
+    "rank": 71,
+    "title": "Libralos del Mal (2025)",
+    "rating": 7.0,
+    "year": 2025,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m72",
+    "rank": 72,
+    "title": "Maleficio (2022)",
+    "rating": 7.0,
+    "year": 2022,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m73",
+    "rank": 73,
+    "title": "Alien Abdution (1998)",
+    "rating": 7.0,
+    "year": 1998,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m74",
+    "rank": 74,
+    "title": "La Morgue (2016)",
+    "rating": 7.0,
+    "year": 2016,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m75",
+    "rank": 75,
+    "title": "The Conjuring (2013)",
+    "rating": 7.0,
+    "year": 2013,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m76",
+    "rank": 76,
+    "title": "The Taking of Deborah Logan (2014)",
+    "rating": 7.0,
+    "year": 2014,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m77",
+    "rank": 77,
+    "title": "Devil's Gate (2017)",
+    "rating": 6.5,
+    "year": 2017,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m78",
+    "rank": 78,
+    "title": "Gonjiam: Haunted Asylum (2018)",
+    "rating": 6.5,
+    "year": 2018,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m79",
+    "rank": 79,
+    "title": "V/H/S Halloween (2025)",
+    "rating": 6.5,
+    "year": 2025,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m80",
+    "rank": 80,
+    "title": "The Tunel (2011)",
+    "rating": 6.0,
+    "year": 2011,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m81",
+    "rank": 81,
+    "title": "Smile 2 (2024)",
+    "rating": 6.0,
+    "year": 2024,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m82",
+    "rank": 82,
+    "title": "The Blair Witch Project (1999)",
+    "rating": 4.0,
+    "year": 1999,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m83",
+    "rank": 83,
+    "title": "Noroi (2005)",
+    "rating": 4.0,
+    "year": 2005,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m84",
+    "rank": 84,
+    "title": "Lake Mungo (2008)",
+    "rating": 3.0,
+    "year": 2008,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m85",
+    "rank": 85,
+    "title": "V/H/S Viral (2014)",
+    "rating": 3.0,
+    "year": 2014,
+    "tags": [
+      "Found Footage"
+    ],
+    "kind": "movie"
+  },
+  {
+    "id": "m86",
+    "rank": 86,
+    "title": "Last Shift (2015)",
+    "rating": 3.0,
+    "year": 2015,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m87",
+    "rank": 87,
+    "title": "Good Boy (2025)",
+    "rating": 7.5,
+    "year": 2025,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m88",
+    "rank": 88,
+    "title": "Obsession (2025)",
+    "rating": 9.0,
+    "year": 2025,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m89",
+    "rank": 89,
+    "title": "La Última Casa (2026)",
+    "rating": 7.0,
+    "year": 2026,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m90",
+    "rank": 90,
+    "title": "BackRooms (2026)",
+    "rating": 8.0,
+    "year": 2026,
+    "tags": [],
+    "kind": "movie"
+  },
+  {
+    "id": "m91",
+    "rank": 91,
+    "title": "1408 (2007)",
+    "rating": 7.5,
+    "year": 2007,
+    "tags": [],
+    "kind": "movie"
+  }
+]
