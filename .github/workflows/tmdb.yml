@@ -1,0 +1,41 @@
+name: Actualizar portadas TMDB
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "datos/**"
+      - "build_tmdb.py"
+      - ".github/workflows/tmdb.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar requests
+        run: pip install requests
+
+      - name: Generar portadas TMDB
+        env:
+          TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
+        run: python build_tmdb.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos/
+          git diff --cached --quiet || git commit -m "Actualizar portadas TMDB"
+          git push
