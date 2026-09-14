@@ -8,7 +8,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m2",
@@ -17,7 +19,9 @@
     "rating": 10.0,
     "year": 2017,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m3",
@@ -26,7 +30,9 @@
     "rating": 10.0,
     "year": 2023,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m4",
@@ -35,7 +41,9 @@
     "rating": 10.0,
     "year": 2018,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m5",
@@ -46,7 +54,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m6",
@@ -55,7 +65,9 @@
     "rating": 10.0,
     "year": 2013,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m7",
@@ -64,7 +76,9 @@
     "rating": 10.0,
     "year": 2017,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m8",
@@ -73,7 +87,9 @@
     "rating": 10.0,
     "year": 2015,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m9",
@@ -84,7 +100,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m10",
@@ -95,7 +113,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/7zxZ8JzsUc2NR4aMRwSaJUrKyKx.jpg",
+    "tmdb_id": 60935
   },
   {
     "id": "m11",
@@ -106,7 +126,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/6qXs5z9bsJSIUpeMzn1SVX0z3zV.jpg",
+    "tmdb_id": 5876
   },
   {
     "id": "m12",
@@ -117,7 +139,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m13",
@@ -126,7 +150,9 @@
     "rating": 9.5,
     "year": 2013,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m14",
@@ -135,7 +161,9 @@
     "rating": 9.5,
     "year": 2018,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m15",
@@ -146,7 +174,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m16",
@@ -155,7 +185,9 @@
     "rating": 9.5,
     "year": 2009,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/mmexd1XwYKF3wgz9tC7WjT8vAWz.jpg",
+    "tmdb_id": 19898
   },
   {
     "id": "m17",
@@ -166,7 +198,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m18",
@@ -177,7 +211,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m19",
@@ -188,7 +224,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m20",
@@ -199,7 +237,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m21",
@@ -208,7 +248,9 @@
     "rating": 9.0,
     "year": 2021,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m22",
@@ -219,7 +261,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m23",
@@ -228,7 +272,9 @@
     "rating": 9.0,
     "year": 2023,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m24",
@@ -239,7 +285,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/adEBp2GeRH69rnXnEuStDGvAXm6.jpg",
+    "tmdb_id": 146301
   },
   {
     "id": "m25",
@@ -250,7 +298,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m26",
@@ -259,7 +309,9 @@
     "rating": 8.5,
     "year": 2022,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m27",
@@ -268,7 +320,9 @@
     "rating": 8.5,
     "year": 2017,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m28",
@@ -277,7 +331,9 @@
     "rating": 8.5,
     "year": 2002,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m29",
@@ -288,7 +344,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m30",
@@ -297,7 +355,9 @@
     "rating": 8.5,
     "year": 2023,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m31",
@@ -306,7 +366,9 @@
     "rating": 8.5,
     "year": 2024,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m32",
@@ -315,7 +377,9 @@
     "rating": 8.5,
     "year": 2007,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m33",
@@ -326,7 +390,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m34",
@@ -337,7 +403,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m35",
@@ -348,7 +416,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m36",
@@ -357,7 +427,9 @@
     "rating": 8.5,
     "year": 2024,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m37",
@@ -366,7 +438,9 @@
     "rating": 8.5,
     "year": 2005,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m38",
@@ -375,7 +449,9 @@
     "rating": 8.5,
     "year": 2017,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m39",
@@ -384,7 +460,9 @@
     "rating": 8.5,
     "year": 2022,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m40",
@@ -393,7 +471,9 @@
     "rating": 8.5,
     "year": 2024,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m41",
@@ -404,7 +484,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/9fSogEkqDfJQTuGHsTFloQz3Tw8.jpg",
+    "tmdb_id": 753453
   },
   {
     "id": "m42",
@@ -413,7 +495,9 @@
     "rating": 8.5,
     "year": null,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/f1Y0JYsWENRfHP1qlg2VLsxBloa.jpg",
+    "tmdb_id": 82507
   },
   {
     "id": "m43",
@@ -424,7 +508,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m44",
@@ -433,7 +519,9 @@
     "rating": 8.0,
     "year": 2023,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m45",
@@ -444,7 +532,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m46",
@@ -453,7 +543,9 @@
     "rating": 8.0,
     "year": 2020,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m47",
@@ -464,7 +556,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m48",
@@ -473,7 +567,9 @@
     "rating": 8.0,
     "year": 2001,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m49",
@@ -484,7 +580,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m50",
@@ -495,7 +593,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/eKqXzB7JmAceORnJnk1kjaERZpp.jpg",
+    "tmdb_id": 430231
   },
   {
     "id": "m51",
@@ -506,7 +606,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m52",
@@ -515,7 +617,9 @@
     "rating": 8.0,
     "year": 2011,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m53",
@@ -524,7 +628,9 @@
     "rating": 8.0,
     "year": 2021,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m54",
@@ -533,7 +639,9 @@
     "rating": 8.0,
     "year": 2019,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m55",
@@ -542,7 +650,9 @@
     "rating": 8.0,
     "year": 2021,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m56",
@@ -553,7 +663,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m57",
@@ -562,7 +674,9 @@
     "rating": 8.0,
     "year": 2012,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m58",
@@ -573,7 +687,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m59",
@@ -582,7 +698,9 @@
     "rating": 8.0,
     "year": 2016,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m60",
@@ -591,7 +709,9 @@
     "rating": 8.0,
     "year": 2015,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m61",
@@ -602,7 +722,9 @@
     "tags": [
       "Horror Cósmico"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m62",
@@ -613,7 +735,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m63",
@@ -622,7 +746,9 @@
     "rating": 8.0,
     "year": 2020,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m64",
@@ -631,7 +757,9 @@
     "rating": 7.5,
     "year": 2019,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m65",
@@ -640,7 +768,9 @@
     "rating": 7.5,
     "year": 2024,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m66",
@@ -649,7 +779,9 @@
     "rating": 7.5,
     "year": 2009,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m67",
@@ -658,7 +790,9 @@
     "rating": 7.5,
     "year": 2022,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/39AUg66cIoaVAio6oCX0LdvRXWg.jpg",
+    "tmdb_id": 1498630
   },
   {
     "id": "m68",
@@ -667,7 +801,9 @@
     "rating": 7.5,
     "year": 2017,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m69",
@@ -676,7 +812,9 @@
     "rating": 7.5,
     "year": 2023,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m70",
@@ -685,7 +823,9 @@
     "rating": 7.5,
     "year": 2017,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m71",
@@ -694,7 +834,9 @@
     "rating": 7.0,
     "year": 2025,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m72",
@@ -705,7 +847,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m73",
@@ -714,7 +858,9 @@
     "rating": 7.0,
     "year": 1998,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m74",
@@ -723,7 +869,9 @@
     "rating": 7.0,
     "year": 2016,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m75",
@@ -732,7 +880,9 @@
     "rating": 7.0,
     "year": 2013,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m76",
@@ -743,7 +893,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m77",
@@ -752,7 +904,9 @@
     "rating": 6.5,
     "year": 2017,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m78",
@@ -763,7 +917,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m79",
@@ -774,7 +930,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m80",
@@ -785,7 +943,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m81",
@@ -794,7 +954,9 @@
     "rating": 6.0,
     "year": 2024,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m82",
@@ -805,7 +967,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m83",
@@ -816,7 +980,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": "https://image.tmdb.org/t/p/w500/zUOTIbcEMpDYXakMzwxjQhFXi7W.jpg",
+    "tmdb_id": 1276713
   },
   {
     "id": "m84",
@@ -825,7 +991,9 @@
     "rating": 3.0,
     "year": 2008,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m85",
@@ -836,7 +1004,9 @@
     "tags": [
       "Found Footage"
     ],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m86",
@@ -845,7 +1015,9 @@
     "rating": 3.0,
     "year": 2015,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m87",
@@ -854,7 +1026,9 @@
     "rating": 7.5,
     "year": 2025,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m88",
@@ -863,7 +1037,9 @@
     "rating": 9.0,
     "year": 2025,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m89",
@@ -872,7 +1048,9 @@
     "rating": 7.0,
     "year": 2026,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m90",
@@ -881,7 +1059,9 @@
     "rating": 8.0,
     "year": 2026,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "m91",
@@ -890,6 +1070,8 @@
     "rating": 7.5,
     "year": 2007,
     "tags": [],
-    "kind": "movie"
+    "kind": "movie",
+    "poster": null,
+    "tmdb_id": null
   }
 ]

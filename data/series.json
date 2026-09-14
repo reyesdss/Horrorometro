@@ -7,7 +7,9 @@
     "seasons": 4,
     "episodes": 40,
     "imdb": 7.8,
-    "kind": "series"
+    "kind": "series",
+    "poster": "https://image.tmdb.org/t/p/w500/7pHMZ6EsZfs2qZu0Lv2UGtTo5MU.jpg",
+    "tmdb_id": 124364
   },
   {
     "id": "it-1990",
@@ -17,7 +19,9 @@
     "seasons": 1,
     "episodes": 2,
     "imdb": 6.8,
-    "kind": "series"
+    "kind": "series",
+    "poster": null,
+    "tmdb_id": null
   },
   {
     "id": "el-gabinete-de-curiosidades-de-guillermo-del-toro",
@@ -27,7 +31,9 @@
     "seasons": 1,
     "episodes": 8,
     "imdb": 7,
-    "kind": "series"
+    "kind": "series",
+    "poster": "https://image.tmdb.org/t/p/w500/xfH651gjh3PbpAznDpXjTqyfyjn.jpg",
+    "tmdb_id": 83659
   },
   {
     "id": "the-boroughs",
@@ -37,7 +43,9 @@
     "seasons": 1,
     "episodes": 8,
     "imdb": 7.2,
-    "kind": "series"
+    "kind": "series",
+    "poster": "https://image.tmdb.org/t/p/w500/pIXvmq8Gcg9QgHqBvtY4vpVymva.jpg",
+    "tmdb_id": 224941
   },
   {
     "id": "30-monedas",
@@ -47,7 +55,9 @@
     "seasons": 2,
     "episodes": 16,
     "imdb": 7,
-    "kind": "series"
+    "kind": "series",
+    "poster": "https://image.tmdb.org/t/p/w500/vHnRqCNztlfnNXQHvqKpX6jnAKV.jpg",
+    "tmdb_id": 89844
   },
   {
     "id": "teacup",
@@ -57,6 +67,8 @@
     "seasons": 1,
     "episodes": 8,
     "imdb": 6.3,
-    "kind": "series"
+    "kind": "series",
+    "poster": "https://image.tmdb.org/t/p/w500/cP5zuQvWAFrgWptS0iXvDI3iND.jpg",
+    "tmdb_id": 247721
   }
 ]
